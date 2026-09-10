@@ -1,16 +1,20 @@
-## Hi there 👋
+# 林金晶 | 福州大学计算机大三学生
+##  个人简介
+我是福州大学计算机科学与技术大三学生，正在学习软件工程课程。
 
-<!--
-**StarrLin7/StarrLin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  技能盘点
+- 编程语言：C/C++, Python, JavaScript
+- UML：了解用例图、时序图（面向对象分析与设计课程）
+- 薄弱点：软件项目估算、风险分析、软件测试用例设计
 
-Here are some ideas to get you started:
+##  软件工程课程学习计划
+1. 软件工程介绍：理解软件危机，各类软件生命周期模型
+2. 软件过程：掌握瀑布、V模型、螺旋、Scrum敏捷开发
+3. 软件项目管理：学习工作量估算COCOMO II、风险分析、项目计划编制
+4. 需求分析：掌握UML建模，用例图、类图、时序图
+5. 系统设计：架构设计、高内聚低耦合、构件设计
+6. 软件测试：白盒、黑盒测试，测试用例
+7. 软件维护：校正性、适应性、完善性维护
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  课程目标
+掌握软件工程全流程，具备需求分析、系统设计、软件测试、项目管理能力，能够参与团队软件开发项目。
